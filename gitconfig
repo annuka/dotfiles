@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = annuka.bathija@gmail.com
+	name = Annuka Bathija
